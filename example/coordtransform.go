@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	ct "github.com/feiquan123/coordtransform"
+	ct "github.com/feiquan123/coordtransform-go"
 )
 
 func main() {

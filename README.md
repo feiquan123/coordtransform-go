@@ -54,7 +54,8 @@ FromMercator    墨卡托坐标系 -> 任意坐标系
 With [go](https://golang.google.cn/) do:
 
 ```sh
-go install github.com/feiquan123/coordtransform/cmd/coordtransform
+go get github.com/feiquan123/coordtransform-go
+go install github.com/feiquan123/coordtransform-go/cmd/coordtransform
 ```
 
 ## license

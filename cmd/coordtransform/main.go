@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	ct "github.com/feiquan123/coordtransform"
+	ct "github.com/feiquan123/coordtransform-go"
 )
 
 var (
